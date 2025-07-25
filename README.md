@@ -78,9 +78,3 @@ This project explores clustering, classification, and neural network models usin
 - Integrate cross-validation for improved model evaluation.
 - Extend binary logistic regression to multi-class classification using softmax.
 
-## Authors
-This project is a collaborative effort focused on applying machine learning methods to the Iris dataset for both clustering and classification.
-
----
-
-Experiment with various machine learning models and visualize clustering and classification boundaries on this dataset!
